@@ -1,1 +1,3 @@
 Try to write something in this file in order to create a conflict (and to resolve it)
+
+Adding text, unknown from other branches
